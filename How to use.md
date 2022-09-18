@@ -9,3 +9,4 @@ How To Use:
 7. and then once you reach the lobby press play (if it is in-game)
 8. and this problem should no longer be
 9. Enjoy!
+10. I'm not 100% sure if this will work so don't tell me that this is fake or something like that and test it because i didn't tested it yet
